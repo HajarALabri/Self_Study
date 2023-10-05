@@ -15,7 +15,9 @@ numberofGovernorateinOman = number_of_Omani_Governorates()
 print("number_of_Omani_Governorates:", numberofGovernorateinOman)
 
 
-# In the coming code I will use next_up() function to return the first Governorate in the list Omani_Governorates: here is the link for this code https://jupyter.org/try-jupyter/lab?path=notebooks%2Fnext_up%28%29+function.ipynb 
+# In the coming code I will use next_up() function to return the first Governorate in the list Omani_Governorates: here is the link for this code:
+
+https://jupyter.org/try-jupyter/lab?path=notebooks%2Fnext_up%28%29+function.ipynb 
 
 def next_up():
     Omani_Governorates = ['Ad Dakhiliyah', 'Al-Dhahirah', 'Al Batinah North', 'Al Batinah South',' Al Buraimi Governorate', 'Al Wusta Governorate', 'Ash-Sharqīyah North Governorate', 'Dhofar Governorate',' Ash-Sharqīyah South Governorate', 'Muscat', 'Musandam Governorate']

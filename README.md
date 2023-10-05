@@ -35,4 +35,9 @@ else:
 # This code returns my favorite Governorate:
 https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2F9927dc2b-b614-4854-ad37-13a87a70e9f6%2Fversions%2F608cb24b-ddb1-4acb-9229-5249eda0cd7c%2Ffiles%2Ffavorite%20Governorate%20.ipynb      
 <a target="_blank" href=https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2F9927dc2b-b614-4854-ad37-13a87a70e9f6%2Fversions%2F608cb24b-ddb1-4acb-9229-5249eda0cd7c%2Ffiles%2Ffavorite%20Governorate%20.ipynb><img 
- 
+
+
+
+
+ # I am using the capitalize() function to capitalize the first litter in a list :
+ https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2Ff149c59f-6990-448a-a3ab-aee38d488e5d%2Fversions%2F82cd8266-0e43-47ad-aeb0-5ee7b3a9403d%2Ffiles%2Fcapitalize().ipynb 

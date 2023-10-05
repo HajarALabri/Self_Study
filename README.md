@@ -39,5 +39,5 @@ https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda
 
 
 
- # I am using the capitalize() function to capitalize the first litter in a list :
+ # I am using the capitalize() function to capitalize the first letter in a list :
 https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2Ff149c59f-6990-448a-a3ab-aee38d488e5d%2Fversions%2F82cd8266-0e43-47ad-aeb0-5ee7b3a9403d%2Ffiles%2Fcapitalize().ipynb 
